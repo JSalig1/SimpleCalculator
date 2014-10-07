@@ -1,4 +1,10 @@
+package app;
 import java.io.*;
+
+/**
+ * @author Jeremy Salig
+ * @version 1.0
+ */
 
 public class SimpleCalculator {
   public static void main(String[] args) {
